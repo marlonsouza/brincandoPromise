@@ -1,0 +1,28 @@
+{
+  "name": "brincandoPromise",
+  "version": "0.0.0",
+  "main": "main.js",
+  "authors": [
+    "marlonsouza"
+  ],
+  "dependencies": {
+    "jquery": "",
+    "angular": "",
+    "restangular": "",
+    "angular-route":"",
+    "bootstrap": "",
+    "angular-bootstrap":"",
+    "angular-ui-router":"",
+    "underscore":"",
+    "angular-promise-tracker":""
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/marlonsouza/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
